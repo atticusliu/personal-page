@@ -2,7 +2,19 @@ Highlights by HTML5 UP
 html5up.net | @n33co
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
+Atticus Liu’s website. Template by HTML5 UP, credits and message located below:) Please provide feedback if/when you can, more than happy to receive!
 
+
+
+
+
+
+
+
+
+
+
+—————————————
 Just a fun little single pager I whipped up to test out my new scroll events plugin
 (github.com/n33/jquery.scrollex). Clean, simple, fully responsive, and loaded with
 all the usual pre-styled elements. Enjoy :)
