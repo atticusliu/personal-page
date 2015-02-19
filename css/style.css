@@ -65,7 +65,7 @@
 
 		a:hover {
 			border-bottom-color: transparent !important;
-			color: #8cd1a8 !important;
+			color: #398fd0 !important;
 			text-decoration: none;
 		}
 
@@ -1196,7 +1196,7 @@
 			}
 
 			#footer footer a {
-				color: #57c8e7;
+				color: ghostwhite;
 			}
 
 				#footer footer a:hover {
